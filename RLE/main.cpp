@@ -1,6 +1,5 @@
 #include <iostream>
 #include <string>
-
 std::string runLengthEncode(const std::string& input) {
     std::string encoded;
     int count = 1;
